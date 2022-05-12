@@ -1,0 +1,13 @@
+{
+    "compilaropções": {
+        "alvo": "es2016",
+        "módulo": "commonjs",
+        "rootDir": "./src","
+        "outDir": "./dist",
+        "esModuleInterop": verdade,
+        "forceConsistentCasingInFileNames": verdade,
+        "rigoroso": verdade,
+        "skipLibCheck": verdadeiro
+        }
+     
+    }
